@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jackshoes.github.io/women-shoes/sitemapx.xml
